@@ -1,0 +1,32 @@
+img{
+        position:relative; 
+        top:-1070px;
+        left:1120px;
+        width:132px;
+    }
+h1{
+    font-size:30px;
+    font-family: impact, haettenscheiler, 'Arial Narrow Bold',sans-serif;
+    color:violet;
+}
+h2{
+    color:blue;
+    text-decoration: underline rosybrown;
+}
+
+h3{
+    color:violet;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+.frame{
+    width: 1200px;
+    height: 150px;
+    border: 3px solid violet;
+    background: #eee;
+    margin: auto;
+    padding: 15px 25px; 
+}
+body{background-color:rgb(253, 235, 196)};
